@@ -1,6 +1,11 @@
-def simple_curfew_checker(time)
-  # code goes here
+def simple_curfew(number)
+  if number >= 11
+    return "You're in trouble! Better get home quick!"
+  end
 end
+
+puts simple_curfew(12)
+puts simple_curfew(11)
 
 def curfew_checker(time)
   # code goes here

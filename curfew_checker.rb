@@ -5,3 +5,4 @@ def simple_curfew(number)
 end
 
 puts simple_curfew(12)
+puts simple_curfew(11)

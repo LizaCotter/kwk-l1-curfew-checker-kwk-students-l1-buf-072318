@@ -3,4 +3,4 @@ def simple_curfew(number)
     "You're in trouble! Better get home quick!"
   end
 end
-simple_curfew
+simple_curfew(12)
